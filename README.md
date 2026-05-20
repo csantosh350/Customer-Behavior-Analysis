@@ -1,5 +1,5 @@
 # Customer-Behavior-Analysis
-This project analyzes customer shopping behavior using Python, SQL, and MySQL to uncover insights about purchasing patterns, product performance, and customer segments.
+This project analyzes customer shopping behavior using Python, SQL, and PostgreSQL to uncover insights about purchasing patterns, product performance, and customer segments.
 
 ## Project Overview
 
@@ -47,7 +47,7 @@ The dataset contains customer shopping activity including:
 | Tool                 | Purpose                               |
 | -------------------- | ------------------------------------- |
 | **Python (Pandas)**  | Data cleaning and feature engineering |
-| **MySQL**       | Data storage and querying             |
+| **PostgreSQL**       | Data storage and querying             |
 | **SQL**              | Business analysis queries             |
 | **Jupyter Notebook** | Data exploration                      |
 | **VS Code**          | Development environment               |
@@ -223,7 +223,7 @@ customer_behavior_analysis_dashboard
 
 ### Dashboard Snapshot
 
-
+![Dashboard](https://github.com/csantosh350/Customer-Behavior-Analysis/blob/main/dashboard_snapshot.png)
 
 ---
 
